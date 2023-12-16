@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cristian😄 , Welcome to My Repositories!👋
+### Hi there 👋, I'm Cristian😄 , Welcome to My Repositories!
 <div>
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SrCristian2&hide_progress=true'>
 <img  align="left" src='https://github-readme-stats.vercel.app/api?username=SrCristian2&show_icons=true&theme=radical'> 
